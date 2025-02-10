@@ -8,7 +8,9 @@ The application is a database system designed for a company offering various cou
 
 + MS SQL Server
 
-#Schema
+
+# Schema
+
 ![Schema](Schemat.png)
 
 
