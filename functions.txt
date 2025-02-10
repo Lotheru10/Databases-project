@@ -1,0 +1,47 @@
+Funkcje:
+
+
+-Administrator:
+10. Dodawanie nowego użytkownika do bazy
+11. Usuwanie użytkownika z bazy
+8. Generowanie listy dłużników dla administratora
+1. Sprawdzanie czy student zdał przedmiot na podstawie frekwencji
+2. Zaliczenie praktyk przez studenta
+3. Czy student zdał egzamin
+4. Czy student zapłacił za dany kurs
+5. Widok na uczęszczane przedmioty dla studenta
+6. Widok na oczekiwane płatności
+7. Obliczanie ceny zamówienia w różnych walutach
+9. Generowanie planu zajęć dla użytkowników
+12. Obliczanie ilości pozostałych miejsc na dane zajęcia
+Generowanie listy osób zapisanych na 2 zajęcia jednocześnie
+
+-Student:
+1. Sprawdzanie czy student zdał przedmiot na podstawie frekwencji (tylko dla siebie)
+2. Zaliczenie praktyk przez studenta (tylko dla siebie)
+3. Czy student zdał egzamin (tylko dla siebie)
+4. Czy student zapłacił za dany kurs (tylko dla siebie)
+5. Widok na uczęszczane przedmioty dla studenta (tylko dla siebie)
+6. Widok na oczekiwane płatności (tylko dla siebie)
+9. Generowanie planu zajęć dla użytkowników (tylko dla siebie)
+12. Obliczanie ilości pozostałych miejsc na dane zajęcia
+Sprawdzenie czy istnieją jakieś zajęcia pokrywające się za sobą
+
+-Dyrektor:
+Odraczanie płatności dla konkretnych użytkowników
+
+-Księgowy:
+Generowanie listy dłużników
+Obliczanie całkowitego zysku
+Obliczanie ceny zamówienia w różnych walutach
+Sprawdzanie czy student wpłacił zaliczkę
+Sprawdzanie czy student zapłacił kwotę do 3 dni przed rozpoczęciem
+
+
+-Nauczyciel:
+Wpisywanie obecności uczniom i generowanie listy obecności
+1. Sprawdzanie czy student zdał przedmiot na podstawie frekwencji (dla swoich grup)
+2. Zaliczenie praktyk przez studenta (dla swoich grup)
+3. Czy student zdał egzamin (dla swoich grup)
+5. Widok na uczęszczane przedmioty dla studenta (dla swoich grup)
+9. Generowanie planu zajęć dla użytkowników (tylko dla siebie)
